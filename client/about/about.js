@@ -1,0 +1,5 @@
+Template.about.events({
+   
+    
+    
+});

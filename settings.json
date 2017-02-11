@@ -1,0 +1,5 @@
+{ "galaxy.meteor.com":
+{ "env":
+{ "ROOT_URL":"devday.amnevins.com", "NODE_ENV":"production" }
+}
+}
